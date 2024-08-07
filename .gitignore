@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ActionResult/obj/Debug/net8.0/ref/ActionResult.dll
+/ActionResult/bin/Debug/net8.0/ActionResult.dll
+/ActionResult/obj/project.nuget.cache
+/ActionResult/bin/Debug/net8.0/ActionResult.deps.json
+/ActionResult/bin/Debug/net8.0
+/ActionResult/obj
+/.vs
+*.user
